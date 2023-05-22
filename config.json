@@ -1,0 +1,30 @@
+{
+    "difficult":[
+        {
+            "min": 0,
+            "max": 800,
+            "difficult": "Velmi snadná"
+        },
+        {
+            "min": 801,
+            "max": 1500,
+            "difficult": "Snadná"
+        },
+        {
+            "min": 1501,
+            "max": 2100,
+            "difficult": "Střední"
+        },
+        {
+            "min": 2101,
+            "max": 3000,
+            "difficult": "Těžká"
+        },
+        {
+            "min": 3001,
+            "max": "*",
+            "difficult": "Velmi Těžká"
+        }
+    ],
+    "background_images": 13
+}

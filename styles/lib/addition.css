@@ -1,0 +1,24 @@
+div.btn-multiline{
+    line-height: 14px !important; 
+    padding-top:4px !important; 
+    height: 36px !important;
+    margin: 4px;
+}
+div.color .bfont{font-size: 14px;}
+
+div.color .sfont{font-size: 9px;}
+
+span.color_span{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 37px;
+    border-radius: 3px;
+    color: #fff;
+    padding-top: 0;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+/* .ondraw image{display: none !important;} 
+.ondraw circle{display: normal !important;} */
